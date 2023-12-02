@@ -369,9 +369,7 @@ function Home() {
             </div>
           </section>
         </section>
-
-        {/*Footer */}
-        <Footer />
+      <Footer/>
       </section>
     </>
   );
