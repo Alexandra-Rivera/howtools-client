@@ -1,6 +1,7 @@
-import Footer from "../footer/footer";
+
 import { IconSettings2 } from "@tabler/icons-react";
 import { Link } from "react-router-dom";
+import Footer from "../footer/Footer";
 
 function Home() {
   return (
